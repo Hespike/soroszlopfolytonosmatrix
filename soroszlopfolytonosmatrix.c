@@ -24,4 +24,4 @@ int main() {
         printf("\n");
     }
     return 0;
-}ltsd fel elemekkel, majd írasd ki az elemeit sor- illetve oszlopfolytonosan is
+}
